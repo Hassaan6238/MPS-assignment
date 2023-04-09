@@ -1,6 +1,3 @@
-# MPS-assignment
-4 bit Microprocessor Simulation
-This repository contains simulation file of proteus 8.
-The simulation showing the working of a 4 Bit Microprocessor.
-The machine code stored in it is contains a basic incrementing and decrementing algorithm. 
-The hex file is stored in the Eprom.
+A 4-bit microprocessor is a computer processor that can handle 4 bits of data at a time. It consists of four main components: an arithmetic logic unit (ALU), a program counter, a register file, and a clock.
+The ALU performs arithmetic and logical operations on the data. It can perform operations such as addition, subtraction, AND, OR, and XOR.In this microprocessor we perform move, subtract,add ,Increment operation. The control unit manages the flow of data between the ALU, register file, and memory. It retrieves instructions from memory and decodes them to determine which operation the ALU needs to perform. The register file stores data temporarily during processing. It consists of a set of registers that can hold 4 bits each. The clock is a timing mechanism that controls the speed at which the microprocessor operates.
+Because a 4-bit microprocessor can only handle 4 bits of data at a time, it is not as powerful as modern processors which typically handle 64 bits or more. However, it is still useful in some applications where a smaller processor is sufficient, such as in simple calculators or embedded systems.
